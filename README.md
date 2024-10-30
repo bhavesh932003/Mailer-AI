@@ -1,16 +1,16 @@
-# About Mailer.AI
+# About Mailer-AI
 
-**Mailer.AI** is an innovative platform designed to streamline the process of email outreach through automated and personalized email generation. The application allows users to create and send tailored cold emails efficiently, significantly reducing manual effort and increasing outreach effectiveness.
+**Mailer-AI** is an innovative platform designed to streamline the process of email outreach through automated and personalized email generation. The application allows users to create and send tailored cold emails efficiently, significantly reducing manual effort and increasing outreach effectiveness.
 
-With Mailer.AI, users can easily manage their email campaigns, track responses, and optimize their outreach strategies. The platform is built with user experience in mind, providing a seamless interface for generating emails that resonate with potential clients.
+With Mailer-AI, users can easily manage their email campaigns, track responses, and optimize their outreach strategies. The platform is built with user experience in mind, providing a seamless interface for generating emails that resonate with potential clients.
 
-Overall, Mailer.AI aims to empower businesses and individuals to enhance their communication strategies and expand their networks.
+Overall, Mailer-AI aims to empower businesses and individuals to enhance their communication strategies and expand their networks.
 
-For more detailed information about Mailer.AI's features, you can visit the [official website](https://your-mailer-ai-url.com).
+For more detailed information about Mailer-AI's features, you can visit the [official website](https://your-mailer-ai-url.com).
 
 # 📁 File Structure
 ```
-📦 Mailer.AI
+📦 Mailer-AI
 ├── .gitignore
 ├── app/
 │   ├── app-resource-my_portfolio.csv
@@ -68,7 +68,7 @@ Follow these steps to set up and run the Mailer.AI application on your local mac
 
 # 🌐 Website
 
-You can check out the live version of the application at [Mailer.AI](https://intervue-nine.vercel.app/).
+You can check out the live version of the application at [Mailer-AI](https://intervue-nine.vercel.app/).
 
 # 📚 Learn More
 
